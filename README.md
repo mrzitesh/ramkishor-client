@@ -1,7 +1,7 @@
 # Portfolio Responsive Complete
 ### Portfolio Responsive Complete
 link to this website:- 
-https://mrniteshsma.github.io/ramkishor-client
+https://mrnitesh.github.io/ramkishor-client
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
